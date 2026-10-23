@@ -113,12 +113,8 @@
           "推车"
         ]
       },
-      "resource": {
-        "0.png": "948ee568b13be8427c0dd8d6de5740c3",
-        "1.png": "0e5f561f3abc093f8089ed5e3b4d4e51",
-        "data.json": "cb5926755dc90d750559e6fda70d299e"
-      },
-      "size": 130598
+     "resource": {},
+      "size": 0
     },
     "ask": {
       "type": "template",
